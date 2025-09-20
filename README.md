@@ -1,0 +1,1 @@
+Hello! This is my first Python projet,i started learning just a few days ago by Harvard edXcourse.This project was created to practise my programming and git skills.Thanks for reading i`l be happy to read any suggestions!
